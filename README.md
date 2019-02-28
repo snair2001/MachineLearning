@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning Projects
+This repository is meant to hold the Machine Learning Projects
